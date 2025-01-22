@@ -1,4 +1,4 @@
-# Lending Club
+# Lending Club Case Study
 
 ---
 
@@ -51,10 +51,8 @@ The goal is to reduce **credit loss** by identifying **risky loan applicants (de
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was inspired by upGrad and IIITB Machine Learning & AI Program
+- This project was based on [Exploratory Data Analysis Lesson](https://learn.upgrad.com/course/7715/segment/53501/348418/1051925/5255692).
 
 ## Contact
 Created by [Huy Vo](https://github.com/lacusu) and [Zoeb Murthuza](https://github.com/lacusu)- feel free to contact us!
