@@ -42,6 +42,9 @@ The goal is to reduce **credit loss** by identifying **risky loan applicants (de
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
+The notebook for this project can be found [here](https://github.com/lacusu/EDALendingClubCaseStudy/blob/main/Huy_Vo.ipynb).
+
+```python
 ## Technologies Used
 - Python version: 3.12.7 | packaged by Anaconda, Inc.
 - Pandas version: 2.2.2
