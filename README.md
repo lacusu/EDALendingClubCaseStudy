@@ -58,9 +58,9 @@ The goal is to reduce **credit loss** by identifying **risky loan applicants (de
 - Continuously analyze trends in loan purposes, borrower demographics, and repayment behaviors.
 - Utilize predictive modeling to proactively refine risk management strategies.
 
-The notebook for this project can be found [here](https://github.com/lacusu/EDALendingClubCaseStudy/blob/main/Huy_Vo.ipynb).
+The notebook for this project can be found [here](./Huy_Vo.ipynb).
 
-Presentation slides can be found [here](https://github.com/lacusu/EDALendingClubCaseStudy/blob/main/LendingClubCaseStudyPresentation.pdf).
+Presentation slides can be found [here](./LendingClubCaseStudyPresentation.pdf).
 
 ## Technologies Used
 - Python version: 3.12.7 | packaged by Anaconda, Inc.
