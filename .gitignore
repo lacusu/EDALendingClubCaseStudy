@@ -1,2 +1,5 @@
 /anaconda_projects/
 .idea/
+.DS_Store
+.ipynb_checkpoints/
+.virtual_documents/
