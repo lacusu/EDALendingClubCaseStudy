@@ -60,7 +60,7 @@ The goal is to reduce **credit loss** by identifying **risky loan applicants (de
 
 The notebook for this project can be found [here](./Huy_Vo.ipynb).
 
-Presentation slides can be found [here](./LendingClubCaseStudyPresentation.pdf).
+Presentation slides can be found [here](./Lending_Club_Case_Study.pdf).
 
 ## Technologies Used
 - Python version: 3.12.7 | packaged by Anaconda, Inc.
