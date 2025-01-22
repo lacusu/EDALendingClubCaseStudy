@@ -37,12 +37,29 @@ The goal is to reduce **credit loss** by identifying **risky loan applicants (de
   - Avoid financial losses
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+
+#### Dynamic Risk-Based Pricing
+- Adjust interest rates for borrowers in the 10%-15% range to better balance risk and profitability.
+
+#### Enhanced Screening for Debt Consolidation Loans
+- Strengthen risk assessment protocols for borrowers applying for debt consolidation, which accounts for the majority of charged-off loans.
+
+#### Income-Driven Assessments
+- Incorporate robust income-based criteria to identify high-risk borrowers, particularly those earning below $100K.
+
+#### Refined Loan Structuring
+- Introduce caps on debt-to-income ratios to minimize default risks.
+- Offer tailored loan amounts and terms based on borrower profiles and repayment history.
+
+#### Employment Tenure Evaluation
+- Reassess reliance on employment length as a primary stability factor and consider additional financial metrics.
+
+#### Portfolio Monitoring and Policy Adjustments
+- Continuously analyze trends in loan purposes, borrower demographics, and repayment behaviors.
+- Utilize predictive modeling to proactively refine risk management strategies.
 
 The notebook for this project can be found [here](https://github.com/lacusu/EDALendingClubCaseStudy/blob/main/Huy_Vo.ipynb).
+Presentation slides can be found [here](https://github.com/lacusu/EDALendingClubCaseStudy/blob/main/LendingClubCaseStudy.pdf).
 
 ## Technologies Used
 - Python version: 3.12.7 | packaged by Anaconda, Inc.
