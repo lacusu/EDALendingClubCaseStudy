@@ -1,5 +1,14 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club
+
+---
+
+This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
+
+Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
+
+If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
+
+In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
 
 
 ## Table of Contents
@@ -8,15 +17,24 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+The goal is to reduce **credit loss** by identifying **risky loan applicants (defaulters)** based on patterns in the data. Using EDA, you will analyze consumer and loan attributes to uncover the driving factors behind loan defaults. This information will help the company make better decisions on loan approvals, such as:
+- Rejecting risky applications
+- Reducing loan amounts
+- Increasing interest rates for specific categories of borrowers
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+### **Classify Loan Outcomes**:
+1. **Fully Paid**: Applicants who repaid the loan successfully.
+2. **Current**: Applicants still paying their loan installments (not defaulted yet).
+3. **Charged-Off**: Applicants who defaulted on the loan, causing financial losses.
+
+> **Applicants in the "Charged-Off" category are considered defaulters.**
+
+### **Identify Driver Variables**
+- Analyze consumer demographics, credit attributes, and loan attributes to determine the factors contributing to defaults.
+- These insights will guide the company to:
+  - Target low-risk applicants
+  - Avoid financial losses
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -24,15 +42,12 @@
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- Python version: 3.12.7 | packaged by Anaconda, Inc.
+- Pandas version: 2.2.2
+- NumPy version: 1.26.4
+- Matplotlib version: 3.9.2
+- Seaborn version: 0.13.2
 
 ## Acknowledgements
 Give credit here.
@@ -42,8 +57,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
+Created by [Huy Vo](https://github.com/lacusu) and [Zoeb Murthuza](https://github.com/lacusu)- feel free to contact us!
 
 <!-- Optional -->
 <!-- ## License -->
