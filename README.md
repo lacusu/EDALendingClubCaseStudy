@@ -59,6 +59,7 @@ The goal is to reduce **credit loss** by identifying **risky loan applicants (de
 - Utilize predictive modeling to proactively refine risk management strategies.
 
 The notebook for this project can be found [here](https://github.com/lacusu/EDALendingClubCaseStudy/blob/main/Huy_Vo.ipynb).
+
 Presentation slides can be found [here](https://github.com/lacusu/EDALendingClubCaseStudy/blob/main/LendingClubCaseStudy.pdf).
 
 ## Technologies Used
@@ -74,8 +75,7 @@ Give credit here.
 - This project was based on [Exploratory Data Analysis Lesson](https://learn.upgrad.com/course/7715/segment/53501/348418/1051925/5255692).
 
 ## Contact
-Created by [Huy Vo](https://github.com/lacusu) and [Zoeb Murthuza](https://github.com/lacusu)- feel free to contact us!
-
+Created by [Huy Vo](https://github.com/lacusu) and [Zoeb Murthuza](mailto:zoeb4s@gmail.com ) - feel free to contact us!
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
